@@ -5,7 +5,7 @@ This project was created as part of a hackathon to showcase my background, skill
 
 ### 🔗 Live Website
 
-👉 [Visit my website here](https://jothphat21.github.io/personal_portfolio/)
+👉 [Visit my website here](https://jothphat21.github.io/Personal_Portfolio/)
 
 ---
 
