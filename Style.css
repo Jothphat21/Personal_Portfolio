@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: whitesmoke;
+  color: #333;
+}
+
+.intro {
+    background-color: rgb(8, 8, 31);
+    color: whitesmoke;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.box {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem 1rem;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1;
+  background-color: whitesmoke;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+h2 {
+  color: rgb(8, 8, 31);
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.languages {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.languages  span {
+  background-color: #e0e0e0;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+h3 {
+    color: rgb(8, 8, 31);
+    padding-bottom: 5px;
+}
+
+.button,
+.project-link,
+.contact-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color:  #1a73e8;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.button:hover,
+.project-link:hover,
+.contact-link:hover {
+  background-color: #0c5ad9;
+  transform: scale(1.05);
+}
+
+#social-media {
+  margin-top: 30px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-icons img {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.social-icons img:hover {
+  transform: scale(1.2);
+}
+
+
+footer {
+    background-color: rgb(8, 8, 31);
+    padding: 20px;
+    color: whitesmoke;
+    margin-top: 40px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+  .box {
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .social-icons {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .button,
+  .project-link,
+  .contact-link {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+
