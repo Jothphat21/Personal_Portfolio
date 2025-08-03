@@ -31,26 +31,26 @@ I’m passionate about the intersection of **finance and technology**, with spec
 
 ## 🚀 Sections in My Portfolio
 
-* 👨‍💼 About Me
-  This section includes brief details about me.
+* 👨‍💼 About Me,
+  this section includes brief details about me.
 
-* 🧠 Programming Languages
-  This section lists the programming languages I know and those I’m currently learning.
+* 🧠 Programming Languages,
+  this section lists the programming languages I know and those I’m currently learning.
 
-* 💻 Projects
-  This section includes projects I've completed with links to view them — including this portfolio itself.
+* 💻 Projects,
+  this section includes projects I've completed with links to view them — including this portfolio itself.
 
-* 💡 Interests
-  This section highlights my passion for technology and how I envision its role in my future.
+* 💡 Interests,
+  this section highlights my passion for technology and how I envision its role in my future.
 
-* 📚 Education Background
-  This section includes a downloadable CV for anyone interested in viewing my professional qualifications.
+* 📚 Education Background,
+  this section includes a downloadable CV for anyone interested in viewing my professional qualifications.
 
-* 📬 Contact Form
+* 📬 Contact Form,
   I’ve embedded a Google Form here for collaborators or employers who wish to reach out and work with me.
 
-* 🌐 Social Media Links
-  This section provides links to my social media profiles for easy connection.
+* 🌐 Social Media Links,
+  this section provides links to my social media profiles for easy connection.
 
 ---
 
